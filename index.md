@@ -6,4 +6,6 @@
 ## Intelligence
 
 > The most useful piece of learning for the uses of life is to unlearn what is untrue.  
-> **Antisthenes**
+>**Antisthenes**
+
+* [Introduction](introduction)
