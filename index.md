@@ -1,7 +1,7 @@
 > [home](/)
 > &bull; Work in progress...
 
-[banner](/intelligence/photos/banner.png)
+![banner](/intelligence/photos/banner.png)
 
 ## Intelligence
 
