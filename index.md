@@ -3,7 +3,7 @@
 
 ![banner](/intelligence/photos/banner.png)
 
-## Intelligence
+## The Roots of Conscious Understanding 
 
 > The most useful piece of learning for the uses of life is to unlearn what is untrue.  
 >**Antisthenes**
